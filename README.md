@@ -67,6 +67,7 @@ Minor Oracle errors were encountered (wrong container and existing user), but th
 
 ---
 
+
 ## PDB Name Created
 
 bi_pdb_29025
@@ -77,4 +78,12 @@ bi_pdb_29025
 
 I confirm that this assignment was completed individually, and all screenshots represent my own work.
 
----
+-Final Checklist (Apply Before Submission)
+✅Correct PDB names used
+✅User created inside the PDB
+✅Temporary PDB created and deleted
+✅❌OEM dashboard screenshot included
+✅GitHub repository is PUBLIC
+✅README is clear and professional
+✅Deadline respected-
+
