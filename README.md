@@ -6,17 +6,18 @@ assigniment of plsql group b
 
 **Name:** Bienfait
 **Student ID:** 29025
-**Course:** Database Development with PL/SQL (INSY 8311)
-
----
+**Course:** Database Development with PL/SQL (INSY 8311) 
 
  
 
 ## Task 1: Main PDB Creation
 
-* Created PDB: **bi_pdb_29025**
+* Created PDB: **bi_pdb_29025**<img width="1082" height="406" alt="connection s t1" src="https://github.com/user-attachments/assets/c7411d50-3ecc-42a2-8d72-0ebc955f0ea6" /><img width="958" height="595" alt="tasks 1 pl" src="https://github.com/user-attachments/assets/5f992ec6-55e0-4e4b-a6c8-e4ca964a24e4" />
+
+
 * Opened the PDB successfully.
-* Created user: **bienfait_plsqlauca_29025**
+* Created user: **bienfait_plsqlauca_29025** 
+
 * Granted required privileges.
 
 Screenshots included:
